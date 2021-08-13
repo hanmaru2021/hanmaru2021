@@ -14,5 +14,8 @@
 - Git 이란 무엇인가?(https://velog.io/@gparkkii/GitGithub)
 - Git에 대한 개념 잡기(https://opentutorials.org/module/3733)
 
+##  2021.08.20(2주차) - 
+- 
+
 
 
