@@ -21,6 +21,7 @@
 - add, commit, push, pull 용어에 대한 학습
 - teams 
 
-
-
+##  2021.09.10(3주차) -  
+- 무료강의(1) : https://youtu.be/FXDjmsiv8fI
+- 무료강의(2) : https://youtu.be/GaKjTjwcKQo
 
